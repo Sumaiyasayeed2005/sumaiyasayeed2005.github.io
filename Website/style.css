@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #D1B67F ;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #C0AE8B;
+  color: white;
+
+}
+img{
+  width: 450px;
+}
+img2{
+  width:500px;
+  height:500px;
+
+}
+p {
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: 'EB Garamond', serif;
+}
+body{
+  background-color: #FEFCDD;
+}
+h1{
+  color: #8B7F67;
+  font-family: 'Poppins', sans-serif;
+}
+h2{
+  font-family: 'Ubuntu', sans-serif;
+}
